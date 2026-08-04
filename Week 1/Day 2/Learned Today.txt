@@ -1,9 +1,0 @@
-Min, Max, Average, Count, CountA.
-Learning Mini Static Bar.
-Data Filter and sort.
-Fill and Autofill Handle.
-Fill weekdays, Fill year, Fill Formatting
-Formula Operators and BODMAS
-Understanding Relative, Absolute and Mix References
-Handling Data using Range name
-Format as table to automate data
