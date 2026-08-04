@@ -20,7 +20,7 @@ My goal is to build a strong foundation in Data Analysis and Business Intelligen
 - Dashboard Development
 
 
-## 💡 Why this repository?
+## Why this repository?
 
 I believe that documenting the learning process is just as valuable as showcasing completed projects. This repository reflects my commitment
 to continuous improvement and helps me track my progress over time.
