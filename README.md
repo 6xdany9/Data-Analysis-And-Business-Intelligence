@@ -24,9 +24,3 @@ My goal is to build a strong foundation in Data Analysis and Business Intelligen
 
 I believe that documenting the learning process is just as valuable as showcasing completed projects. This repository reflects my commitment
 to continuous improvement and helps me track my progress over time.
-
----
-
-**Author:** Muhammad Danial
-
-Aspiring Data Analyst
