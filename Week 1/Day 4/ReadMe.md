@@ -21,4 +21,4 @@ The goal of today's practice was to understand lookup functions and improve my a
 
 ---
 
-This repository documents my daily journey to becoming a Data Analyst and Business Intelligence.
+This repository is part of my daily journey to become a Data Analyst and Business Intelligence professional.
