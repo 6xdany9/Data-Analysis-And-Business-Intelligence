@@ -18,3 +18,6 @@ I practiced using XLOOKUP and FILTER to retrieve specific data from tables. I al
 ## Goal
 
 The goal of today's practice was to improve my ability to retrieve, filter, and combine data efficiently in Excel.
+
+---
+
