@@ -1,9 +1,0 @@
-XLOOKUP - Extracting Data with more capabilities
-
-Filter - Get the Data You Want
-
-Advanced Filter
-
-Advance Filters with Formulas
-
-Data Consolidation
