@@ -19,4 +19,4 @@ The goal of today's practice was to learn how to use formatting to make data eas
 
 ---
 
-This repository documents my daily journey to becoming a Data Analyst and Business Intelligence professional by sharing my learning progress, practice files, and completed exercises.
+This repository is part of my daily journey to become a Data Analyst and Business Intelligence professional.
