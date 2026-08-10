@@ -1,6 +1,0 @@
-Charts - Analysing Data with Graphs
-
-column chart
-
-Bar chart
-
