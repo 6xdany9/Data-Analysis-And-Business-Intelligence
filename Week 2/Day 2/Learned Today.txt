@@ -1,9 +1,0 @@
-Bullet Chart
-
-Pie Chart and Pie of Pie
-
-Creating a Line Chart
-
-Adding Form Controls to Handle Charts and Other Formulas using Button
-
-Pivot Tables - Data Summarization and Analyzation
