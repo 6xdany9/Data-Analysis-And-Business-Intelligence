@@ -1,7 +1,0 @@
-Pivot Tables - Adding Fields, Filtering and Sorting Data
-
-Working with dates
-
-Groups
-
-Slicers
