@@ -22,4 +22,4 @@ The goal of today's practice was to understand how Pivot Tables can make large d
 
 ---
 
-This repository documents my journey to becoming a Data Analyst and Business Intelligence professional.
+This repository documents my daily journey to becoming a Data Analyst and Business Intelligence professional.
