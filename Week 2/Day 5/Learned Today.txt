@@ -1,5 +1,0 @@
-Power Query:
-Connecting Data.
-Cleaning the data.
-Connecting Multiple Sources and Append Data (txt, Access).
-Appending Data from Folder and Worksheets
