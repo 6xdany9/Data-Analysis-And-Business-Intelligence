@@ -1,0 +1,11 @@
+Connecting and Transforming Data:
+
+Introduction to Power Query Editor 
+
+Basic Table Transformation
+
+Text Tools
+
+Number Tools
+
+Date and Time Tools
