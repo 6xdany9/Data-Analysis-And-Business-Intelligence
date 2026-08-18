@@ -1,0 +1,6 @@
+Connecting and transforming data:
+live Calender.
+Indexing and Conditional Column.
+Grouping & Aggregating.
+Pivoting and Unpivoting.
+Merging Queries.
