@@ -1,0 +1,6 @@
+Connecting and Transforming Data:
+Appending Queries.
+Data Source Settings.
+Refresh Settings.
+Modifying Queries.
+Hierarchies.
