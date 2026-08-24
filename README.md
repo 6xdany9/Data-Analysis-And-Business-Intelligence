@@ -1,8 +1,11 @@
 # Data Analysis & Business Intelligence Journey
 
+#NOTE
+I did call it daily journey but this isnt a daily journey, but i do upload "Day- ___" whenever i learn something, its not like i miss on purpose, life just doesn't go as we plan.
+
 Welcome to my Data Analysis & Business Intelligence learning repository.
 
-This repository documents my day-by-day journey of becoming a Data Analyst. Instead of uploading only finished projects,
+This repository documents my journey of becoming a Data Analyst. Instead of uploading only finished projects,
 I'm sharing my learning process and practice exercises.
 ## Goal
 
