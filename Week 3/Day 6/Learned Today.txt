@@ -1,0 +1,5 @@
+Data Modelling:
+Creating Relationship
+Star vs Snowflake Relationship
+Managing Relationships
+Active vs Inactive Relationships
