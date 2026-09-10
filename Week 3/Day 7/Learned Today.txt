@@ -1,0 +1,7 @@
+Data Modelling
+Cardinality
+Connecting Multiple Data Tables
+Filter Flow
+Cross filters
+Managing fields
+Best practices and assignment
