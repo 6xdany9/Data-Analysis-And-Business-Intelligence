@@ -1,0 +1,6 @@
+Dax:
+Introduction to dax
+Theory:
+Calculated columns.
+Measures.
+Calculated Columns vs Measures.
