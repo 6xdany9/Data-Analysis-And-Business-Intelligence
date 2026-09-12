@@ -1,3 +1,0 @@
-Creating Calculated Columns and Measures
-Implicit vs. Explicit Measures
-Filter Context
