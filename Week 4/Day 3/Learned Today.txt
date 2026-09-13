@@ -1,4 +1,0 @@
-DAX:
-Syntax & Operators and DAX Categories
-Date and Time Functions
-Conditional & Logical Functions
